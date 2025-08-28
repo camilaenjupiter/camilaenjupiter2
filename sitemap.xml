@@ -7,4 +7,28 @@
     <priority>1.0</priority>
   </url>
 
+  <!-- Sección: Quién soy -->
+  <url>
+    <loc>https://camilaenjupiter2.vercel.app/quien-soy.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Sección: Habilidades -->
+  <url>
+    <loc>https://camilaenjupiter2.vercel.app/habilidades.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Sección: Trayectoria -->
+  <url>
+    <loc>https://camilaenjupiter2.vercel.app/trayectoria.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Sección: Currículum -->
+  <url>
+    <loc>https://camilaenjupiter2.vercel.app/curriculum.html</loc>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
